@@ -14,4 +14,4 @@ Bachelor in Computer Science
 - Trello Team Board
 
 ## Contact
-Email: ibrabarakaniLgmail.com
+Email: ibrabarakani@gmail.com
