@@ -1,4 +1,4 @@
-# Your Name
+# Ibrahim Al-Barakani
 
 ## Education
 Bachelor in Computer Science
@@ -14,4 +14,4 @@ Bachelor in Computer Science
 - Trello Team Board
 
 ## Contact
-Email: your@email.com
+Email: ibrabarakaniLgmail.com
